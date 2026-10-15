@@ -4,7 +4,7 @@ An interactive WebGL story. It's the year 2189. Humanity is gone, and one signal
 
 ## Run it
 
-Requires Node 18+.
+Requires Node 18+.,
 
 ```bash
 npm install
